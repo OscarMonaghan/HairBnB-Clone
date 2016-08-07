@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    background-color: #EDEFED;
+    color: white;
+    font-family: Helvetica;
+}
+
+header {
+    text-align: left;
+    background: url("https://dl.dropboxusercontent.com/u/297682547/Hairbnb/header/nyc.jpg");
+    height: 550px;
+    background-size: cover;
+}
+
+#headingborder {
+      border: 3px solid white;
+      padding: 3px;
+      border-radius: 3px;
+}
+
+header li {
+  display: inline-block;
+  font-size: 14px;
+  padding: 5px;
+}
+
+header ul {
+  float: right;
+  margin-right: 10px;
+}
+
+#logo {
+      float: left;
+      height: 30px;
+      margin-top: 20px;
+      margin-left: 10px;
+      opacity: 0.5;
+}
+
+#logo img {
+  height: 30px;
+}
+
+#inspiration {
+    text-align: center;
+}
+
+img {
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 200px;
+    margin: 0;
+    font-size: 100px;
+}
+
+h4 {
+    text-align: center;
+    padding-bottom: 200;
+    margin: 10px;
+    display: block;
+    font-size: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: #565A5C;
+}
+
+p {
+    text-align: center;
+    color: #565A5C;
+}
+
+.button {
+  border: 1px solid #565A5C;
+  border-radius: 3px;
+  width: 150px;
+  padding: 10px 60px;
+  margin: 40px auto;
+  background-color: white;
+}
+
+footer {
+    background: url("https://dl.dropboxusercontent.com/u/297682547/Hairbnb/footer.png");
+    height: 550;
+    text-align: center;
+    color: white;
+}
+
+footer li {
+    text-align: center;
+    list-style: none;
+}
+
+#company {
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
+}
